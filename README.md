@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tarunpandey3001
 - 👀 I’m interested in coding, online gaming
-- 🌱 I’m currently learning JavaScript, Java
-- 💞️ I’m looking to collaborate on Java
+- 🌱 I’m currently learning Python, Java, JavaScript, CSS, HTML
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me tarunpandey199@gmail.com
 
 <!---
